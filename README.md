@@ -19,7 +19,7 @@
 
 ## Arrays
 
-When doing dynamic programming with arrays, you typically store the best possible answer up to index `i` in another array's index `i`.
+When doing greedy algorithms on arrays with dynamic programming, you typically store the best possible answer up to index `i` in another array's index `i`.
 
 # Data Structures
 
