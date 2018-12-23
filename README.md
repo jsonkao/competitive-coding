@@ -1,6 +1,7 @@
 ### Table of Contents
 
 | [Problem Patterns](#problem-patterns) |
+|-----------------|
 | [Arrays](#arrays) |
 
 | [Data Structures](#data-structures) |
