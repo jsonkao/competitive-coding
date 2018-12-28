@@ -1,5 +1,8 @@
 ### Table of Contents
 
+| [Strategy](#strategy) |
+|-----------------|
+
 | [Problem Patterns](#problem-patterns) |
 |-----------------|
 | [Arrays](#arrays) |
@@ -14,6 +17,12 @@
 |-----------------|
 | [Sorting](#sorting) |
 | [Rubin-Karp substring search](#rubin-karp-substring-search) |
+
+# Strategy
+
+1. Binary search a doable problem. Don't start from the easiest problems.
+2. [Recipe](http://mdotsabouri.blogspot.com/2014/10/my-recipe-to-improve-your-programming.html)
+
 
 # Problem Patterns
 
